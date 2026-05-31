@@ -1,16 +1,86 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tanvi Mahajan</h1>
+<h3 align="center">Engineering Student | Full Stack Developer | Java Enthusiast</h3>
 
-<!--
-**Tanvi-Ajay-Mahajan/Tanvi-Ajay-Mahajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&center=true&vCenter=true&width=700&lines=Engineering+Student;Full+Stack+Developer;Java+Programmer;Angular+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🎓 Engineering Student
+
+💻 Passionate about Full Stack Development
+
+🌱 Exploring modern web technologies and software development
+
+⚡ Love building real-world projects and solving coding challenges
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- JavaScript
+- HTML5
+- CSS3
+
+### Frontend
+- Angular
+- Bootstrap
+- Responsive Web Design
+
+### Backend
+- Node.js
+- Express.js
+
+### Databases
+- MySQL
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 🌟 Featured Projects
+
+### 📚 PYQ Portal
+A web platform for students to access and manage Previous Year Question Papers efficiently.
+
+**Tech Used:** Angular, Node.js, MongoDB
+
+### 💻 CodeBrowser
+A coding platform/project for browsing, organizing, and managing code.
+
+**Tech Used:** Angular, JavaScript, Node.js
+
+---
+
+## 🎯 Currently Learning
+
+- Advanced Angular
+- System Design
+- Data Structures & Algorithms
+- Cloud Technologies
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn: Your LinkedIn Profile
+
+🐙 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
