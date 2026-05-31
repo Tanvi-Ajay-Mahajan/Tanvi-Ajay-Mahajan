@@ -73,11 +73,11 @@ A coding platform/project for browsing, organizing, and managing code.
 
 ## 🤝 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: mtanvi598@gmail.com
 
-💼 LinkedIn: Your LinkedIn Profile
+💼 LinkedIn: https://www.linkedin.com/in/tanvi-mahajan-55b9862b7/
 
-🐙 GitHub: https://github.com/YOUR_USERNAME
+🐙 GitHub: https://github.com/Tanvi-Ajay-Mahajan
 
 ---
 
