@@ -62,15 +62,6 @@ A coding platform/project for browsing, organizing, and managing code.
 
 ---
 
-## 🎯 Currently Learning
-
-- Advanced Angular
-- System Design
-- Data Structures & Algorithms
-- Cloud Technologies
-
----
-
 ## 🤝 Connect With Me
 
 📧 Email: mtanvi598@gmail.com
